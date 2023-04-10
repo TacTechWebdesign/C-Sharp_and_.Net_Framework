@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\bin\Debug\ParsingEnum.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ParsingEnum\ParsingEnum\obj\Debug\ParsingEnum.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\bin\Debug\MethodClassParameters.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\bin\Debug\MethodClassParameters.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\bin\Debug\MethodClassParameters.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\obj\Debug\MethodClassParameters.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\obj\Debug\MethodClassParameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\obj\Debug\MethodClassParameters.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\obj\Debug\MethodClassParameters.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\MethodClassParameters\MethodClassParameters\obj\Debug\MethodClassParameters.pdb
