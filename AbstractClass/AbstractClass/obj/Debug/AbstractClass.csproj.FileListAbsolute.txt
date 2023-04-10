@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
