@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
