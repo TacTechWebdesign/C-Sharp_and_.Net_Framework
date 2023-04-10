@@ -1,0 +1,3 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
