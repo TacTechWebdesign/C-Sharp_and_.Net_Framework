@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\bin\Debug\LambadaExpression.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\bin\Debug\LambadaExpression.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\bin\Debug\LambadaExpression.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\obj\Debug\LambadaExpression.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\obj\Debug\LambadaExpression.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\obj\Debug\LambadaExpression.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\obj\Debug\LambadaExpression.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\LambadaExpression\LambadaExpression\obj\Debug\LambadaExpression.pdb
