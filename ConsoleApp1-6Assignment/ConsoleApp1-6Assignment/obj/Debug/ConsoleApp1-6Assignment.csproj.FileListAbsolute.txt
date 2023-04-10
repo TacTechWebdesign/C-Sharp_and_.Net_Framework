@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\bin\Debug\ConsoleApp1-6Assignment.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\bin\Debug\ConsoleApp1-6Assignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\bin\Debug\ConsoleApp1-6Assignment.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\obj\Debug\ConsoleApp1-6Assignment.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\obj\Debug\ConsoleApp1-6Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\obj\Debug\ConsoleApp1-6Assignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\obj\Debug\ConsoleApp1-6Assignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ConsoleApp1-6Assignment\ConsoleApp1-6Assignment\obj\Debug\ConsoleApp1-6Assignment.pdb
