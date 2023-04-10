@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
