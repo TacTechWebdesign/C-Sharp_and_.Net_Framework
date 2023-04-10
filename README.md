@@ -10,4 +10,4 @@ CAR INSURANCE: -This is a MVC Web Application project that mimics a car insuranc
 
 TWENTY ONE: -This project is a classic game of Twenty One. The user is first asked their name and their bet, and cards are then dealt and displayed to the dealer and the player, starting a tradional game of Blackjack.
 
-EXERCISES: -This are all exercises Assignments.
+EXERCISES: -These are all exercises Assignments.
