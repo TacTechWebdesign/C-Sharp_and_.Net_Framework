@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
