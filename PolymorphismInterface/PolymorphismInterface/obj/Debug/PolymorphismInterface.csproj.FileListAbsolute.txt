@@ -1,0 +1,8 @@
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe.config
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.pdb
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.exe
+C:\Users\User\Documents\GitHub\C#_and_.Net_Framework\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.pdb
