@@ -22,9 +22,9 @@ namespace CarInsurance.Models
         public int CarYear { get; set; }
         public string CarMake { get; set; }
         public string CarModel { get; set; }
-        public bool DUI { get; set; }
-        public int SpeedingTickets { get; set; }
-        public bool CoverageType { get; set; }
-        public decimal Quote { get; set; }
+        public bool HasDUI { get; set; }
+        public int NumberOfSpeedingTickets { get; set; }
+        public string FullCoverageOrLiability { get; set; }
+        public decimal InsuranceQuote { get; set; }
     }
 }

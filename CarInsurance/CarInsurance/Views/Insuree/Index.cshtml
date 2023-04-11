@@ -33,16 +33,16 @@
             @Html.DisplayNameFor(model => model.CarModel)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DUI)
+            @Html.DisplayNameFor(model => model.HasDUI)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.SpeedingTickets)
+            @Html.DisplayNameFor(model => model.NumberOfSpeedingTickets)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.CoverageType)
+            @Html.DisplayNameFor(model => model.FullCoverageOrLiability)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.Quote)
+            @Html.DisplayNameFor(model => model.InsuranceQuote)
         </th>
         <th></th>
     </tr>
@@ -71,16 +71,16 @@
             @Html.DisplayFor(modelItem => item.CarModel)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.DUI)
+            @Html.DisplayFor(modelItem => item.HasDUI)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.SpeedingTickets)
+            @Html.DisplayFor(modelItem => item.NumberOfSpeedingTickets)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.CoverageType)
+            @Html.DisplayFor(modelItem => item.FullCoverageOrLiability)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Quote)
+            @Html.DisplayFor(modelItem => item.InsuranceQuote)
         </td>
         <td>
             @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
